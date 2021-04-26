@@ -1,7 +1,6 @@
 import datetime
 
 def meta(ctx, cmdline):
-    random.seed()
     action = ctx.new_action()
     action.text = time(cmdline)
     return action
