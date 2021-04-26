@@ -7,7 +7,7 @@ def meta(ctx, cmdline):
     return action
 
 def time(formatting):
-    fmt, *new_locale = formatting.split(':')
+    fmt, *new_locale = formatting.split('>>')
 
     current_locale = locale.getlocale()
 
