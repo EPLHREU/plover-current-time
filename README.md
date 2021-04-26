@@ -1,8 +1,8 @@
 # Current time
 
-> Plover macro for inserting current time in an `strftime()` format
+> Plover plugin for inserting the current time in an `strftime()` format
 
-This can be used to indicate the current time when writing, useful for keeping track of when a transcription started, or when notible events occured such as breaks.
+This can be used to indicate the current time when writing, useful for keeping track of when a transcription started, or when notible events occur; such as breaks.
 
 ## Installation
 
